@@ -4,7 +4,7 @@ Aplikasi berbasis GUI untuk memformat dan melabeli data well log, dikembangkan s
  
 ## Deskripsi
  
-Tool ini memudahkan proses formatting dan pelabelan data well log secara interaktif melalui antarmuka grafis (GUI), sehingga mempercepat tahap preprocessing data dalam penelitian.
+Tool ini memudahkan proses formatting dan pelabelan data well log secara interaktif melalui antarmuka grafis (GUI), sehingga mempercepat tahap preprocessing data dalam penelitian
  
 ## Penggunaan
  
