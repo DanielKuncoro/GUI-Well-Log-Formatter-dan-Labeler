@@ -104,7 +104,6 @@ def apply_lithology_by_thickness(csv_path, layers, output_dir):
     df.to_csv(out_path, index=False)
     return len(df)
 
-
 #MAIN APPLICATION
 class WellLogApp:
     def __init__(self, root):
